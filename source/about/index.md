@@ -14,6 +14,7 @@ tags:
 我的作品：
 
 - [x] [星空博客（稳定运行中）](http://blog.songziheng.com)
+- [x] [星空数学（稳定运行中）](http://math.songziheng.com)
 - [ ] 星空服务器-网盘（近期维护）
 - [x] [哔哩哔哩自媒体（稳定更新中）](https://space.bilibili.com/1862407937)
 - [ ] 隐身大侠软件（正在完善，未开放下载）
