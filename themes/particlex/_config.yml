@@ -49,11 +49,12 @@ menu:
 card:
     enable: true
     description: |
-        Description
-        ...
+        上海中学学生
+        星空暗夜团队队长
     iconLinks:
     friendLinks:
-        Argvchs: https://argvchs.github.io
+        我的主页: https://songziheng.com
+        团队主页: https://lightsdark.com
 
 # Footer info
 footer:
@@ -100,7 +101,7 @@ giscus:
     src: https://giscus.app/client.js
     repo: szh2010/hexo-blog
     repoID: R_kgDOMx03OA
-    category: General
+    category: Q&A
     categoryID: DIC_kwDOMx03OM4Cie6K
     mapping: pathname
     strict: 0
